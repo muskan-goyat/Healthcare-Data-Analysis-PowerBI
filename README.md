@@ -1,6 +1,6 @@
 # Healthcare-Data-Analysis-PowerBI
 Healthcare data analysis project using Power BI to analyze patient trends, diagnosis, bed occupancy, and billing insights.
-📌 Project Overview
+ 📌 Project Overview
 
 This project analyzes healthcare data to identify patterns in patient admissions, diagnosis, bed occupancy, billing, and insurance coverage using interactive dashboards and data storytelling.
 
